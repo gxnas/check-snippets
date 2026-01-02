@@ -1,5 +1,3 @@
-//使用方法：复制以下内容，登录CF账号以后，按F12，粘贴回车即可：
-
 (async () => {
   const zonesUrl = "https://dash.cloudflare.com/api/v4/zones?type=full,partial,secondary&per_page=100";
 
